@@ -3,7 +3,7 @@
 </p>
 
 
-<p>This is new paragraph added by Leeaun</p>
+<p>This is new paragraph added by Leeaun.</p>
 
 ## About
 
